@@ -1,0 +1,23 @@
+.reacipeTile{
+    cursor: pointer;   
+    align-items: baseline;
+}
+.reacipeTile-img {
+   display: flex;
+    max-width: 94%;
+    height: 100%;
+    object-fit: cover;
+    align-items: baseline;
+    margin: 10px ;
+    flex-wrap: wrap;
+}
+.reacipeTile-name {
+min-width: 100%;
+text-align: center;
+align-items: center;
+margin: 18px 0;
+align-items: baseline;
+font-size: 10px;
+flex-wrap: wrap;
+font-weight: bold;
+}
